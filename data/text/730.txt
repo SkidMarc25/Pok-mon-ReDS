@@ -20,14 +20,14 @@ Cowgirl
 Jogger
 Pokéfan
 Pokéfan
-Poké Kid
+Veteran
 Rival
 Ace Trainer
 Ace Trainer
-Waitress
+Tourist
 Veteran
 Ninja Boy
-Dragon Tamer
+Sightseer
 Bird Keeper
 Juggler
 Rich Boy
@@ -45,24 +45,24 @@ Swimmer♀
 Tuber
 Tuber
 Sailor
-Kimono Girl
+Backpacker
 Ruin Maniac
 Psychic
 Psychic
-PI
-Guitarist
+Gambler
+Tamer
 Ace Trainer
 Ace Trainer
 Team Rocket
-Skier
+Backpacker
 Roughneck
-Clown
+Office Worker
 Worker
 School Kid
 School Kid
 Team Rocket
 Burglar
-Firebreather
+Researcher
 Biker
 Leader
 Leader
@@ -77,11 +77,11 @@ Leader
 Leader
 Teacher
 Super Nerd
-Sage
-Parasol Lady
-Waiter
+Office Worker
+Bug Maniac
+Roughneck
 Medium
-Cameraman
+Jr. Trainer
 Reporter
 Idol
 Champion
@@ -109,16 +109,16 @@ Leader
 Leader
 ₧₦ Trainer
 Leader
-Elder
+Jr. Trainer
 Elite Four
 Scientist
 Executive
-Boarder
+Punk
 Executive
 Executive
 Executive
 Passerby
-Mystery Man
+Delinquent
 Double Team
 Young Couple
 ₧₦ Trainer
