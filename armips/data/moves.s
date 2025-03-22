@@ -6910,8 +6910,8 @@ movedata MOVE_ROCK_CLIMB, "Rock Climb"
     battleeffect MOVE_EFFECT_CONFUSE_HIT
     pss SPLIT_PHYSICAL
     basepower 90
-    type TYPE_NORMAL
-    accuracy 85
+    type TYPE_ROCK
+    accuracy 90
     pp 20
     effectchance 20
     target RANGE_SINGLE_TARGET
