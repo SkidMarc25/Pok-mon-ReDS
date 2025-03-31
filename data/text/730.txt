@@ -127,7 +127,7 @@ Head Honcho
 ₧₦ Trainer
 ₧₦ Trainer
 ₧₦ Trainer
-///New Trainers
+// (***END OF VANILLA ENTRIES***)
 Veteran
 Backpacker
 Backpacker
