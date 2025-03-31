@@ -169,6 +169,7 @@ struct TrainerMusic sTrainerEncounterMusicParam[] = // cues which music sequence
     {.class = TRAINERCLASS_EXECUTIVE_ARCHER, .music1 = SEQ_GS_EYE_ROCKET, .music2 = SEQ_GS_EYE_ROCKET},
     {.class = TRAINERCLASS_EXECUTIVE_PROTON, .music1 = SEQ_GS_EYE_ROCKET, .music2 = SEQ_GS_EYE_ROCKET},
     {.class = TRAINERCLASS_EXECUTIVE_PETREL, .music1 = SEQ_GS_EYE_ROCKET, .music2 = SEQ_GS_EYE_ROCKET},
+    // (***END OF VANILLA ENTRIES***)
     {.class = TRAINERCLASS_VETERAN, .music1 = SEQ_GS_EYE_K_AYASHII, .music2 = SEQ_GS_EYE_K_AYASHII},
     {.class = TRAINERCLASS_BACKPACKER, .music1 = SEQ_GS_EYE_J_SHOUNEN, .music2 = SEQ_GS_EYE_J_SHOUNEN},
     {.class = TRAINERCLASS_BACKPACKER, .music1 = SEQ_GS_EYE_J_SHOUNEN, .music2 = SEQ_GS_EYE_J_SHOUNEN},
@@ -189,5 +190,4 @@ struct TrainerMusic sTrainerEncounterMusicParam[] = // cues which music sequence
     {.class = TRAINERCLASS_ELITE_ROCKET, .music1 = SEQ_GS_EYE_ROCKET, .music2 = SEQ_GS_EYE_ROCKET},
     {.class = TRAINERCLASS_TAMER, .music1 = SEQ_GS_EYE_K_AYASHII, .music2 = SEQ_GS_EYE_K_AYASHII},
     {.class = TRAINERCLASS_BIKER, .music1 = SEQ_GS_EYE_K_AYASHII, .music2 = SEQ_GS_EYE_K_AYASHII},
-    // (***END OF VANILLA ENTRIES***)
 };
