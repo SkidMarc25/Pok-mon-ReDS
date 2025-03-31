@@ -127,6 +127,7 @@ a ₧₦ Trainer
 a ₧₦ Trainer
 a ₧₦ Trainer
 a ₧₦ Trainer
+// (***END OF VANILLA ENTRIES***)
 a Veteran
 a Backpacker
 a Backpacker
