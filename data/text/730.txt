@@ -16,7 +16,7 @@ Black Belt
 Artist
 ₧₦ Breeder
 ₧₦ Breeder
-Cowgirl
+Farm Girl
 Jogger
 Pokéfan
 Pokéfan
@@ -63,7 +63,7 @@ School Kid
 Team Rocket
 Burglar
 Firebreather
-Biker
+Vagrant
 Leader
 Leader
 Poké Maniac
@@ -122,7 +122,34 @@ Mystery Man
 Double Team
 Young Couple
 ₧₦ Trainer
-Rocket Boss
+Head Honcho
+₧₦ Trainer
+₧₦ Trainer
+₧₦ Trainer
+₧₦ Trainer
+///New Trainers
+Veteran
+Backpacker
+Backpacker
+Office Worker
+Office Worker
+Researcher
+Bug Maniac
+Jr. Trainer
+Jr. Trainer
+Punk
+Delinquent
+Gambler
+Tourist
+Tourist
+Sightseer
+Sightseer
+Elite Rocket
+Elite Rocket
+Tamer
+Biker
+Karate King
+₧₦ Trainer
 ₧₦ Trainer
 ₧₦ Trainer
 ₧₦ Trainer
