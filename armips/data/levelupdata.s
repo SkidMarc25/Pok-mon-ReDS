@@ -2818,10 +2818,12 @@ levelup SPECIES_FURRET
 
 levelup SPECIES_HOOTHOOT
     learnset MOVE_TACKLE, 1
-    learnset MOVE_FORESIGHT, 1
-    learnset MOVE_PECK, 7
-    learnset MOVE_CONFUSION, 13
-    learnset MOVE_REFLECT, 19
+    learnset MOVE_GROWL, 1
+    learnset MOVE_FORESIGHT, 6
+    learnset MOVE_PECK, 9
+    learnset MOVE_CONFUSION, 12
+    learnset MOVE_REFLECT, 16
+    learnset MOVE_SCREECH, 19
     learnset MOVE_AIR_CUTTER, 21
     learnset MOVE_HYPNOSIS, 24
     learnset MOVE_EXTRASENSORY, 28
