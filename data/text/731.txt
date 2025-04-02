@@ -5,7 +5,7 @@ a Lass
 a Camper
 a Picnicker
 a Bug Catcher
-an Aroma Lady
+a Tourist
 the Twins
 a Hiker
 a Battle Girl
@@ -20,14 +20,14 @@ a Cowgirl
 a Jogger
 a Pokéfan
 a Pokéfan
-a Poké Kid
-a rival
+a Sightseer
+a ₧₦ Trainer
 an Ace Trainer
 an Ace Trainer
-a Waitress
+a Sightseer
 a Veteran
-a Ninja Boy
-a Dragon Tamer
+a Backpacker
+a Backpacker
 a Bird Keeper
 a Juggler
 a Rich Boy
@@ -45,31 +45,31 @@ a Swimmer♀
 a Tuber
 a Tuber
 a Sailor
-a Kimono Girl
-a Ruin Maniac
+an Office Worker
+an Office Worker
 a Psychic
 a Psychic
-a PI
+a Biker
 a Guitarist
 an Ace Trainer
 an Ace Trainer
 a Team Rocket
-a Skier
+a Veteran
 a Roughneck
-a Clown
+a Jr. Trainer
 a Worker
 a School Kid
 a School Kid
 a Team Rocket
 a Burglar
-a Firebreather
-a Biker
+a Researcher
+a Vagrant
 a Leader
 a Leader
 a Poké Maniac
 a Bird Keeper
 a Leader
-a Rancher
+a Karate King
 a Leader
 a Leader
 a Leader
@@ -77,9 +77,9 @@ a Leader
 a Leader
 a Teacher
 a Super Nerd
-a Sage
-a Parasol Lady
-a Waiter
+a Bug Maniac
+a Delinquent
+a Punk
 a Medium
 a Cameraman
 a Reporter
@@ -109,47 +109,20 @@ a Leader
 a Leader
 a ₧₦ Trainer
 a Leader
-an Elder
+a Gambler
 an Elite Four
 a Scientist
+an Admin
+a Tamer
 an Executive
-a Boarder
-an Executive
-an Executive
-an Executive
-a Passerby
-a Mystery Man
+a Rocket
+a Rocket
+a Jr. Trainer
+a Tourist
 a Double Team
 a Young Couple
 a ₧₦ Trainer
 a Rocket Boss
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-a ₧₦ Trainer
-// (***END OF VANILLA ENTRIES***)
-a Veteran
-a Backpacker
-a Backpacker
-an Office Worker
-an Office Worker
-a Researcher
-a Bug Maniac
-a Jr. Trainer
-a Jr. Trainer
-a Punk
-a Delinquent
-a Gambler
-a Tourist
-a Tourist
-a Sightseer
-a Sightseer
-an Elite Rocket
-an Elite Rocket
-a Tamer
-a Biker
-a Karate King
-a ₧₦ Trainer
 a ₧₦ Trainer
 a ₧₦ Trainer
 a ₧₦ Trainer
