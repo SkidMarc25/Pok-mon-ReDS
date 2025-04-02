@@ -59,7 +59,7 @@
 #define TRAINERCLASS_TEAM_ROCKET            55
 #define TRAINERCLASS_SKIER                  56 //Female Veteran
 #define TRAINERCLASS_ROUGHNECK              57
-#define TRAINERCLASS_CLOWN                  58
+#define TRAINERCLASS_CLOWN                  58 //Male Jr Trainer
 #define TRAINERCLASS_WORKER                 59
 #define TRAINERCLASS_SCHOOL_KID_M           60
 #define TRAINERCLASS_SCHOOL_KID_F           61
@@ -72,7 +72,7 @@
 #define TRAINERCLASS_POKE_MANIAC            68
 #define TRAINERCLASS_BIRD_KEEPER_GS         69
 #define TRAINERCLASS_LEADER_WHITNEY         70
-#define TRAINERCLASS_RANCHER                71
+#define TRAINERCLASS_RANCHER                71 //Karate King
 #define TRAINERCLASS_LEADER_MORTY           72
 #define TRAINERCLASS_LEADER_PRYCE           73
 #define TRAINERCLASS_LEADER_JASMINE         74
@@ -116,11 +116,11 @@
 #define TRAINERCLASS_ELITE_FOUR_BRUNO       112
 #define TRAINERCLASS_SCIENTIST_GS           113
 #define TRAINERCLASS_EXECUTIVE_ARIANA       114
-#define TRAINERCLASS_BOARDER                115
+#define TRAINERCLASS_BOARDER                115 //Tamer
 #define TRAINERCLASS_EXECUTIVE_ARCHER       116
 #define TRAINERCLASS_EXECUTIVE_PROTON       117 //Male Rocket Elite
 #define TRAINERCLASS_EXECUTIVE_PETREL       118 //Female Rocket Elite
-#define TRAINERCLASS_PASSERBY               119
+#define TRAINERCLASS_PASSERBY               119 //Female Jr Trainer
 #define TRAINERCLASS_MYSTERY_MAN            120 //Male Tourist
 #define TRAINERCLASS_DOUBLE_TEAM            121
 #define TRAINERCLASS_YOUNG_COUPLE           122
