@@ -5,7 +5,7 @@ Lass
 Camper
 Picnicker
 Bug Catcher
-Aroma Lady
+Tourist
 Twins
 Hiker
 Battle Girl
@@ -20,14 +20,14 @@ Farm Girl
 Jogger
 Pokéfan
 Pokéfan
-Poké Kid
+Sightseer
 Rival
 Ace Trainer
 Ace Trainer
-Waitress
+Sightseer
 Veteran
-Ninja Boy
-Dragon Tamer
+Backpacker
+Backpacker
 Bird Keeper
 Juggler
 Rich Boy
@@ -45,31 +45,31 @@ Swimmer♀
 Tuber
 Tuber
 Sailor
-Kimono Girl
-Ruin Maniac
+Office Worker
+Office Worker
 Psychic
 Psychic
-PI
+Biker
 Guitarist
 Ace Trainer
 Ace Trainer
 Team Rocket
-Skier
+Veteran
 Roughneck
-Clown
+Jr. Trainer
 Worker
 School Kid
 School Kid
 Team Rocket
 Burglar
-Firebreather
+Researcher
 Vagrant
 Leader
 Leader
 Poké Maniac
 Bird Keeper
 Leader
-Rancher
+Karate King
 Leader
 Leader
 Leader
@@ -77,9 +77,9 @@ Leader
 Leader
 Teacher
 Super Nerd
-Sage
-Parasol Lady
-Waiter
+Bug Maniac
+Delinquent
+Punk
 Medium
 Cameraman
 Reporter
@@ -109,47 +109,20 @@ Leader
 Leader
 ₧₦ Trainer
 Leader
-Elder
+Gambler
 Elite Four
 Scientist
+Admin
+Tamer
 Executive
-Boarder
-Executive
-Executive
-Executive
-Passerby
-Mystery Man
+Rocket
+Rocket
+Jr. Trainer
+Tourist
 Double Team
 Young Couple
 ₧₦ Trainer
 Head Honcho
-₧₦ Trainer
-₧₦ Trainer
-₧₦ Trainer
-₧₦ Trainer
-// (***END OF VANILLA ENTRIES***)
-Veteran
-Backpacker
-Backpacker
-Office Worker
-Office Worker
-Researcher
-Bug Maniac
-Jr. Trainer
-Jr. Trainer
-Punk
-Delinquent
-Gambler
-Tourist
-Tourist
-Sightseer
-Sightseer
-Elite Rocket
-Elite Rocket
-Tamer
-Biker
-Karate King
-₧₦ Trainer
 ₧₦ Trainer
 ₧₦ Trainer
 ₧₦ Trainer
