@@ -8,7 +8,7 @@
 #define TRAINERCLASS_CAMPER                 4
 #define TRAINERCLASS_PICNICKER              5
 #define TRAINERCLASS_BUG_CATCHER            6
-#define TRAINERCLASS_AROMA_LADY             7
+#define TRAINERCLASS_AROMA_LADY             7 //Female Tourist
 #define TRAINERCLASS_TWINS                  8
 #define TRAINERCLASS_HIKER                  9
 #define TRAINERCLASS_BATTLE_GIRL            10
@@ -23,14 +23,14 @@
 #define TRAINERCLASS_JOGGER                 19
 #define TRAINERCLASS_POKEFAN_M              20
 #define TRAINERCLASS_POKEFAN                21
-#define TRAINERCLASS_POKE_KID               22
+#define TRAINERCLASS_POKE_KID               22 //Male Sightseer 
 #define TRAINERCLASS_RIVAL                  23
 #define TRAINERCLASS_ACE_TRAINER_M          24
 #define TRAINERCLASS_ACE_TRAINER_F          25
-#define TRAINERCLASS_WAITRESS               26
+#define TRAINERCLASS_WAITRESS               26 //Female Sightseer
 #define TRAINERCLASS_VETERAN                27
-#define TRAINERCLASS_NINJA_BOY              28
-#define TRAINERCLASS_DRAGON_TAMER           29
+#define TRAINERCLASS_NINJA_BOY              28 //Female Backpacker
+#define TRAINERCLASS_DRAGON_TAMER           29 //Male Backpacker
 #define TRAINERCLASS_BIRD_KEEPER            30
 #define TRAINERCLASS_JUGGLER                31
 #define TRAINERCLASS_RICH_BOY               32
@@ -48,16 +48,16 @@
 #define TRAINERCLASS_TUBER_M                44
 #define TRAINERCLASS_TUBER_F                45
 #define TRAINERCLASS_SAILOR                 46
-#define TRAINERCLASS_KIMONO_GIRL            47
-#define TRAINERCLASS_RUIN_MANIAC            48
+#define TRAINERCLASS_KIMONO_GIRL            47 //Female Office Worker
+#define TRAINERCLASS_RUIN_MANIAC            48 //Male Office Worker
 #define TRAINERCLASS_PSYCHIC_M              49
 #define TRAINERCLASS_PSYCHIC_F              50
-#define TRAINERCLASS_PI                     51
+#define TRAINERCLASS_PI                     51 //RBY Biker
 #define TRAINERCLASS_GUITARIST              52
 #define TRAINERCLASS_ACE_TRAINER_M_GS       53
 #define TRAINERCLASS_ACE_TRAINER_F_GS       54
 #define TRAINERCLASS_TEAM_ROCKET            55
-#define TRAINERCLASS_SKIER                  56
+#define TRAINERCLASS_SKIER                  56 //Female Veteran
 #define TRAINERCLASS_ROUGHNECK              57
 #define TRAINERCLASS_CLOWN                  58
 #define TRAINERCLASS_WORKER                 59
@@ -65,8 +65,8 @@
 #define TRAINERCLASS_SCHOOL_KID_F           61
 #define TRAINERCLASS_TEAM_ROCKET_F          62
 #define TRAINERCLASS_BURGLAR                63
-#define TRAINERCLASS_FIREBREATHER           64
-#define TRAINERCLASS_BIKER                  65
+#define TRAINERCLASS_FIREBREATHER           64 //Female Scientist
+#define TRAINERCLASS_BIKER                  65 //Cue Ball Biker
 #define TRAINERCLASS_LEADER_FALKNER         66
 #define TRAINERCLASS_LEADER_BUGSY           67
 #define TRAINERCLASS_POKE_MANIAC            68
@@ -80,9 +80,9 @@
 #define TRAINERCLASS_LEADER_CLAIR           76
 #define TRAINERCLASS_TEACHER                77
 #define TRAINERCLASS_SUPER_NERD             78
-#define TRAINERCLASS_SAGE                   79
-#define TRAINERCLASS_PARASOL_LADY           80
-#define TRAINERCLASS_WAITER                 81
+#define TRAINERCLASS_SAGE                   79 //Bug Maniac
+#define TRAINERCLASS_PARASOL_LADY           80 //Delinquent
+#define TRAINERCLASS_WAITER                 81 //Punk
 #define TRAINERCLASS_MEDIUM                 82
 #define TRAINERCLASS_CAMERAMAN              83
 #define TRAINERCLASS_REPORTER               84
@@ -112,24 +112,24 @@
 #define TRAINERCLASS_LEADER_BLAINE          108
 #define TRAINERCLASS_PKMN_TRAINER_RED       109
 #define TRAINERCLASS_LEADER_BLUE            110
-#define TRAINERCLASS_ELDER                  111
+#define TRAINERCLASS_ELDER                  111 //Gambler
 #define TRAINERCLASS_ELITE_FOUR_BRUNO       112
 #define TRAINERCLASS_SCIENTIST_GS           113
 #define TRAINERCLASS_EXECUTIVE_ARIANA       114
 #define TRAINERCLASS_BOARDER                115
 #define TRAINERCLASS_EXECUTIVE_ARCHER       116
-#define TRAINERCLASS_EXECUTIVE_PROTON       117
-#define TRAINERCLASS_EXECUTIVE_PETREL       118
+#define TRAINERCLASS_EXECUTIVE_PROTON       117 //Male Rocket Elite
+#define TRAINERCLASS_EXECUTIVE_PETREL       118 //Female Rocket Elite
 #define TRAINERCLASS_PASSERBY               119
-#define TRAINERCLASS_MYSTERY_MAN            120
+#define TRAINERCLASS_MYSTERY_MAN            120 //Male Tourist
 #define TRAINERCLASS_DOUBLE_TEAM            121
 #define TRAINERCLASS_YOUNG_COUPLE           122
 #define TRAINERCLASS_PKMN_TRAINER_LANCE     123
 #define TRAINERCLASS_ROCKET_BOSS            124
 #define TRAINERCLASS_PKMN_TRAINER_LUCAS_DP  125
 #define TRAINERCLASS_PKMN_TRAINER_DAWN_DP   126
-#define TRAINERCLASS_PKMN_TRAINER_LUCAS_PT  127
-#define TRAINERCLASS_PKMN_TRAINER_DAWN_PT   128
+#define TRAINERCLASS_PKMN_TRAINER_LUCAS_PT  127 //Jasper
+#define TRAINERCLASS_PKMN_TRAINER_DAWN_PT   128 //Jade
 
 // Only used to display attributes of phone contacts
 #define TRAINERCLASS_PHONE_MOM               200
